@@ -33,4 +33,7 @@ Atualmente, estou dedicando meu tempo para aprofundar meus conhecimentos nas seg
   <a href="https://app.rocketseat.com.br/me/mazer" target="_blank">
     <img src="https://img.shields.io/badge/Rocketseat-000000?style=for-the-badge&logo=rocket.chat&logoColor=56B24D" alt="Rocketseat">
   </a>
-  </p>
+  <a href="https://www.instagram.com/lhmazerjunior/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
