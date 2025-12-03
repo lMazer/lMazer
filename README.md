@@ -14,14 +14,8 @@ Com uma sólida bagagem de anos de experiência, atuei na área de **Suporte Té
 
 Possuo também formação técnica em **Redes de Computadores (SENAI - Cascavel/PR)**, o que me conferiu um conhecimento aprofundado em conectividade e sistemas de rede.
 
-## 🚀 Foco Atual & Estudos
-
-Atualmente, estou dedicando meu tempo para aprofundar meus conhecimentos nas seguintes áreas através da **Rocketseat**:
-
-<p>
-  🗃️ **Banco de Dados** (Curso - *Em andamento*)<br>
-  🤖 **Engenharia de Prompt** (Curso - *Em andamento*)<br>
-  💡 **Lógica de Programação** (Formação - *Em andamento*)
+<p align="left">
+  <a href="https://wakatime.com/@ed0a118e-fbb2-4460-a257-8d5eb6b1374a"><img src="https://wakatime.com/badge/user/ed0a118e-fbb2-4460-a257-8d5eb6b1374a.svg" alt="Total time coded since Dec 2 2025" /></a>
 </p>
 
 ## 🔗 Conecte-se Comigo
