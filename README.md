@@ -8,6 +8,18 @@ Minha trajetória me proporcionou uma perspectiva única e uma forte capacidade 
 
 Estou em constante aprendizado, aberto a novos desafios e ansioso para transformar minha vasta experiência em resultados concretos no desenvolvimento de software.
 
+## 🗂️ Como navegar o portfólio
+
+Os repositórios **pinados** acima são **capas** (índices públicos). Cada capa documenta cases, stack e links. O código de clientes fica em repos **privados** (NDA); graduação e open source apontam para entregas e PRs **públicos**.
+
+| Área | O que você encontra | Código |
+|------|---------------------|--------|
+| [Landing-Page](https://github.com/lMazer/Landing-Page) | Cases com preview, stack e site ao vivo | Privado (NDA) |
+| [Sites](https://github.com/lMazer/Sites) | Sites institucionais em produção | Privado (NDA) |
+| [SAAS](https://github.com/lMazer/SAAS) | Produtos SaaS | Privado (NDA) |
+| [Graduacao](https://github.com/lMazer/Graduacao) | Trabalhos acadêmicos (ex.: Java OO, modelagem ER) | Público |
+| [Open-Source](https://github.com/lMazer/Open-Source) | Contribuições externas — ex.: [BRMW #716](https://github.com/brmodeloweb/brmodelo-app/pull/716) | Upstream público |
+
 ## 📚 Formação e Experiência Técnica
 
 Com uma sólida bagagem de anos de experiência, atuei na área de **Suporte Técnico a Informática (CEEP - Cascavel/PR)**, onde desenvolvi forte capacidade de resolução de problemas e compreensão da infraestrutura de TI.
@@ -31,15 +43,3 @@ Possuo também formação técnica em **Redes de Computadores (SENAI - Cascavel/
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-## Capas de portfólio
-
-Índices públicos no perfil:
-
-| Capa | Descrição |
-|------|-----------|
-| [Landing-Page](https://github.com/lMazer/Landing-Page) | Landing pages em produção |
-| [Sites](https://github.com/lMazer/Sites) | Sites institucionais |
-| [SAAS](https://github.com/lMazer/SAAS) | Produtos SaaS |
-| [Graduacao](https://github.com/lMazer/Graduacao) | Trabalhos da graduação |
-| [Open-Source](https://github.com/lMazer/Open-Source) | Contribuições open source |
