@@ -31,3 +31,15 @@ Possuo também formação técnica em **Redes de Computadores (SENAI - Cascavel/
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+## Capas de portfólio
+
+Índices públicos no perfil:
+
+| Capa | Descrição |
+|------|-----------|
+| [Landing-Page](https://github.com/lMazer/Landing-Page) | Landing pages em produção |
+| [Sites](https://github.com/lMazer/Sites) | Sites institucionais |
+| [SAAS](https://github.com/lMazer/SAAS) | Produtos SaaS |
+| [Graduacao](https://github.com/lMazer/Graduacao) | Trabalhos da graduação |
+| [Open-Source](https://github.com/lMazer/Open-Source) | Contribuições open source |
